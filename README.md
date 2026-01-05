@@ -11158,4 +11158,10 @@ export const formatCountryDisplay = (countryCode) => {
     const countryName = getCountryName(countryCode);
     return `${countryName} (${countryCode})`;
 };
-
+this is pms module in this add proposal page there are three steps i think select countries partners and select payouts 
+after selecting that in step 2 configure services section there is a fee level dropdown with options 
+proposed fee
+negotiation level 1,2 
+minimum fee 
+if the user have selected minimum fee as 7 and entering fee less than 7 red highlight will be shown but after giving less than the minimum fee and giving submit proposal after guving next 
+there a reason comment box is supposed to come previously they are saying it was coming but now its not coming 
