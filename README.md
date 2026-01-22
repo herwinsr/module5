@@ -11158,6 +11158,7 @@ export const formatCountryDisplay = (countryCode) => {
     const countryName = getCountryName(countryCode);
     return `${countryName} (${countryCode})`;
 };
+idk from what i have sent has the req files can u tell me for this req
 this is pms module in this add proposal page there are three steps i think select countries partners and select payouts 
 after selecting that in step 2 configure services section there is a fee level dropdown with options 
 proposed fee
